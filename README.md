@@ -9,4 +9,4 @@ https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Preprocessing is included within the code, so as long as directories are appropriately set, and imports are properly installed, the program should run without any external aid.
 
-The program achieves 60%+ accuracy on 10 epochs- if you have the time (or a good computer), feel free to train for longer!
+The program achieves 60%+ accuracy on 10 epochs, and up to 90%+ on 25- if you have the time (or a good computer), feel free to train for longer!(Make sure not to overfit though)
